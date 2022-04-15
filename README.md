@@ -16,6 +16,6 @@ use Uwaiscode\Laravelterbilang\Converter;
 Converter::getConversion(20.5);
 ```
 
-Akan menampilkan : 
+#### Akan menampilkan : 
 
 > Dua Puluh Koma Lima
