@@ -1,0 +1,22 @@
+{
+    "name": "uwaiscode/laravelterbilang",
+    "description": "Cara sederhana untuk merubah nilai angka menjadi tulisan",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Uwaiscode\\Laravelterbilang\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Uwais Code",
+            "email": "uwaiscode@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "prefer-stable": true
+}
