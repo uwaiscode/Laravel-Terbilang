@@ -4,4 +4,18 @@ Cara sederhana untuk merubah nilai angka menjadi tulisan terbilang. Pustaka ini 
 
 ## Cara Pemasangan
 
+> $ composer require uwaiscode/laravelterbilang
+
 ## Cara Penggunaan
+
+```php
+
+use Uwaiscode\Laravelterbilang\Converter;
+
+
+Converter::getConversion(20.5);
+```
+
+Akan menampilkan : 
+
+> Dua Puluh Koma Lima
